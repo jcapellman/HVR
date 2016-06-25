@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVR.CSharp.Plugins", "HVR.CSharp.Plugins.csproj", "{A92411E1-E127-AFDE-57D9-3626C82D2DEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVR.CSharp", "HVR.CSharp.csproj", "{F6983B64-DB2B-0E88-91F9-034FDFC9AA18}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVR.CSharp.Editor", "HVR.CSharp.Editor.csproj", "{C1D7CA76-6D05-7199-9F22-CE3418E15C4A}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{A92411E1-E127-AFDE-57D9-3626C82D2DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A92411E1-E127-AFDE-57D9-3626C82D2DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A92411E1-E127-AFDE-57D9-3626C82D2DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6983B64-DB2B-0E88-91F9-034FDFC9AA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6983B64-DB2B-0E88-91F9-034FDFC9AA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6983B64-DB2B-0E88-91F9-034FDFC9AA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6983B64-DB2B-0E88-91F9-034FDFC9AA18}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C1D7CA76-6D05-7199-9F22-CE3418E15C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C1D7CA76-6D05-7199-9F22-CE3418E15C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1D7CA76-6D05-7199-9F22-CE3418E15C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
